@@ -1,6 +1,8 @@
 # Students Management System using Spring Boot and Thymeleaf
 
-Study Spring Boot Java Rest API Sample - MS Student
+Study Spring Boot Java Rest API - MS Student
+
+CRUD - Sample.
 
 # Project:
 
